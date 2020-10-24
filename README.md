@@ -4,14 +4,14 @@ This is a little Exploration about Google Developer Products
 My Name is Dimaz Wisnu Adipradana with NIM 20119014.
 
 Pertama akan dijelaskan mengenai apa saja Products dari Google Developer Products diantaranya
-- Android,
-- Cloud,
-- Firebase,
-- Flutter,
-- Maps Platform,
-- TensorFlow,
-- Web,
-- YouTube,
+- Android <a href="https://developer.android.com/" target="blank"><img src="https://img.shields.io/badge/Android-%233DDC84?&logo=android&logoColor=white" /></a>,
+- Cloud <a href="https://cloud.google.com/" target="blank"><img src="https://img.shields.io/badge/Cloud-%234285F4?&logo=Google-Cloud&logoColor=white" /></a>,
+- Firebase <a href="https://firebase.google.com/" target="blank"><img src="https://img.shields.io/badge/Firebase-%23FFCA28?&logo=firebase&logoColor=white" /></a>,
+- Flutter <a href="https://flutter.dev/" target="blank"><img src="https://img.shields.io/badge/Flutter-%2302569B?&logo=flutter&logoColor=white" /></a>,
+- Maps Platform <a href="https://cloud.google.com/maps-platform" target="blank"><img src="https://img.shields.io/badge/Google%20Maps-%234285F4?&logo=google-maps&logoColor=white" /></a>,
+- TensorFlow <a href="https://www.tensorflow.org/" target="blank"><img src="https://img.shields.io/badge/TensorFlow-%23FF6F00?&logo=tensorflow&logoColor=white" /></a>,
+- Web <a href="https://developers.google.com/web" target="blank"><img src="https://img.shields.io/badge/Web-%234285F4?&logo=google&logoColor=white" /></a>,
+- YouTube <a href="https://developers.google.com/youtube" target="blank"><img src="https://img.shields.io/badge/YouTube-%23FF0000?&logo=youtube&logoColor=white" /></a>,
 - dll.
 
 Kemudian, diantara produk tersebut saya memilih TensorFlow sebagai Products yang akan saya eksplorasi.
