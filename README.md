@@ -22,18 +22,21 @@ TensorFlow adalah platform open source ujung ke ujung untuk pembelajaran mesin. 
 <p align="center">
 <img src="https://www.tensorflow.org/site-assets/images/marketing/home/model.svg?" />
 </p>
+
 ## Pembuatan model yang mudah
 Buat dan latih model ML dengan mudah menggunakan API tingkat tinggi yang intuitif seperti Keras dengan eksekusi yang cepat, yang membuat iterasi model langsung dan proses debug mudah.
 
 <p align="center">
 <img src="https://www.tensorflow.org/site-assets/images/marketing/home/robust.svg?" />
 </p>
+
 ## Produksi ML yang kuat di mana saja
 Latih dan terapkan model dengan mudah di cloud, di lokasi, di browser, atau di perangkat, apa pun bahasa yang Anda gunakan.
 
 <p align="center">
 <img src="https://www.tensorflow.org/site-assets/images/marketing/home/research.svg?" />
 </p>
+
 ## Eksperimen yang kuat untuk penelitian
 Arsitektur yang sederhana dan fleksibel untuk membawa ide-ide baru dari konsep ke kode, ke model-model mutakhir, dan untuk publikasi lebih cepat.
 
