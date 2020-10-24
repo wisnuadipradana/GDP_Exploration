@@ -39,9 +39,3 @@ Arsitektur yang sederhana dan fleksibel untuk membawa ide-ide baru dari konsep k
 
 
 Info Lebih lanjut klik disini ya: <a href="https://www.tensorflow.org/" target="blank"><img src="https://img.shields.io/badge/TensorFlow-%23FF6F00?&logo=tensorflow&logoColor=white" /></a>
-
-[1200px-Brilliant-Logo-svg.png](https://postimg.cc/f36BqwZy)
-
-<a href='https://postimg.cc/f36BqwZy' target='_blank'><img src='https://i.postimg.cc/f36BqwZy/1200px-Brilliant-Logo-svg.png' border='0' alt='1200px-Brilliant-Logo-svg'/></a>
-
-<a href='https://postimg.cc/f36BqwZy' target='_blank'><img src='https://i.postimg.cc/XJvmJJzf/1200px-Brilliant-Logo-svg.png' border='0' alt='1200px-Brilliant-Logo-svg'/></a>
