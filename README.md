@@ -42,3 +42,34 @@ Arsitektur yang sederhana dan fleksibel untuk membawa ide-ide baru dari konsep k
 
 
 Info Lebih lanjut klik disini ya: <a href="https://www.tensorflow.org/" target="blank"><img src="https://img.shields.io/badge/TensorFlow-%23FF6F00?&logo=tensorflow&logoColor=white" /></a>
+
+# Alien vs. Predator Images
+
+Kemudian sebagai contoh saya mengerjakan sebuah projek dataset dari kaggle <a href="https://www.kaggle.com/pmigdal/alien-vs-predator-images" target="blank"><img src="https://img.shields.io/badge/Alien%20vs.%20Predator%20images-%2320BEFF.svg?&style=social&logo=kaggle&logoColor=white" ></a>.
+
+
+Dataset merupakan gambar JPG dengan berbagai ukuran thumbnail sekitar 250 x 250 pixel.
+Dataset tersebut sudah dibagi dua menjadi 
+- data train: 247 aliens dan 247 predators.
+- data validation: 100 aliens dan 100 predators
+
+Dengan menggunakan CNN Model serta augmentasinya diperoleh grafik train dan validation untuk accuracy dan loss nya berturut turut sebagi berikut:
+
+<p align="center">
+<a href='https://postimg.cc/xkxCdHtm' target='_blank'><img src='https://i.postimg.cc/xkxCdHtm/image.png' /></a>
+<a href='https://postimg.cc/v4D8NDQH' target='_blank'><img src='https://i.postimg.cc/v4D8NDQH/image.png' border='0' alt='image'/></a>
+</p>
+
+Kemudian ditunjukkan perolehan hasil modelnya sebagai berikut:
+
+#### Alien
+<p align="center">
+<a href='https://postimg.cc/JDr2pHLp' target='_blank'><img src='https://i.postimg.cc/JDr2pHLp/image.png' border='0' alt='image'/></a>
+</p>
+
+#### Predator
+<p align="center">
+<a href='https://postimg.cc/rKBZvPT0' target='_blank'><img src='https://i.postimg.cc/rKBZvPT0/image.png' border='0' alt='image'/></a>
+</p>
+
+
