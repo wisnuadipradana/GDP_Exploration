@@ -45,7 +45,7 @@ Info Lebih lanjut klik disini ya: <a href="https://www.tensorflow.org/" target="
 
 # Alien vs. Predator Images
 
-Kemudian sebagai contoh saya mengerjakan sebuah projek dataset dari kaggle <a href="https://www.kaggle.com/pmigdal/alien-vs-predator-images" target="blank"><img src="https://img.shields.io/badge/Alien%20vs.%20Predator%20images-%2320BEFF.svg?&style=social&logo=kaggle&logoColor=white" ></a>.
+Kemudian sebagai contoh saya mengerjakan sebuah projek dataset dari kaggle <a href="https://www.kaggle.com/pmigdal/alien-vs-predator-images" target="blank"><img src="https://img.shields.io/badge/Alien%20vs.%20Predator%20images-%2320BEFF.svg?&logo=kaggle&logoColor=white" ></a>.
 
 
 Dataset merupakan gambar JPG dengan berbagai ukuran thumbnail sekitar 250 x 250 pixel.
