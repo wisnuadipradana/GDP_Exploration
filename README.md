@@ -1,7 +1,7 @@
 # GDP Exploration
 This is a little Exploration about Google Developer Products
 
-My Name is Dimaz Wisnu Adipradana with NIM 20119014.
+<!-- My Name is Dimaz Wisnu Adipradana with NIM 20119014. -->
 
 Pertama akan dijelaskan mengenai apa saja Products dari Google Developer Products diantaranya
 - <a href="https://developer.android.com/" target="blank"><img src="https://img.shields.io/badge/Android-%233DDC84?&logo=android&logoColor=white" /></a>,
